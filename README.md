@@ -5,11 +5,13 @@ How to using ViewModel and LiveDate with simple Activity(retrofit)
 # Preview :
 * ViewModel and LiveDate :
 <br>
+
 [![Ansible Role](https://img.shields.io/badge/lib-Retrofit-green.svg)]()
 [![Ansible Role](https://img.shields.io/badge/lib-ViewModel-green.svg)]()
 [![Ansible Role](https://img.shields.io/badge/lib-LiveData-green.svg)]()
 [![Ansible Role](https://img.shields.io/badge/lib-RXPref-green.svg)]()
 [![Ansible Role](https://img.shields.io/badge/lib-RXJAVA-green.svg)]()
+
 <br>
 <img src="picture/viewmodel.png" height="450" width="820">&nbsp;
 <br>
