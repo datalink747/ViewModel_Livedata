@@ -1,4 +1,4 @@
-# ViewModel_Livedata
+# ViewModel & Livedata
 How to using ViewModel and LiveDate with simple Activity(retrofit)
 <br>
 
