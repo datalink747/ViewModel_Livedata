@@ -6,7 +6,7 @@ How to using ViewModel and LiveDate with simple Activity(retrofit)
 * ViewModel and LiveDate :
 
 <br>
-<img src="picture/NiceNavigation.gif" height="450" width="580">&nbsp;
+<img src="picture/viewmodel.png" height="450" width="580">&nbsp;
 <br>
 
 # SDK Required
